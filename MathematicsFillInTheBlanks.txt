@@ -1,0 +1,30 @@
+601
+15*15 = _____
+225
+602
+A triange has _____ sides.
+3
+603
+2+2= _____
+4
+604
+A square has _____ sides.
+4
+605
+A pentagon has _____ sides.
+5
+606
+3+2= _____
+5
+607
+A hexagon has _____ sides.
+6
+608
+7-4= _____
+3
+609
+A octagon has _____ sides.
+8
+610
+10*4= _____
+40

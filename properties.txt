@@ -1,0 +1,19 @@
+userName = Aditi
+password = password
+
+englishMCQFileName = EnglishMCQ.txt
+englishTrueOrFalseFileName = EnglishTrueOrFalse.txt
+englishFillInTheBlanksFileName = EnglishFillInTheBlanks.txt
+questionsInEnglishFileName = QuestionsInEnglish.txt
+
+mathematicsMCQFileName = MathematicsMCQ.txt
+mathematicsTrueOrFalseFileName = MathematicsTrueOrFalse.txt
+mathematicsFillInTheBlanksFileName = MathematicsFillInTheBlanks.txt
+questionsInMathematicsFileName = QuestionsInMathematics.txt
+
+generalKnowledgeMCQFileName = GeneralKnowledgeMCQ.txt
+generalKnowledgeTrueOrFalseFileName = GeneralKnowledgeTrueOrFalse.txt
+generalKnowledgeFillInTheBlanksFileName = GeneralKnowledgeFillInTheBlanks.txt
+questionsInGeneralKnowledgeFileName = QuestionsInGeneralKnowledge.txt
+
+pathForFiles = /home/aditi/

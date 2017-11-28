@@ -1,0 +1,27 @@
+801
+The current President of the United States is Donald Trump.
+true
+802
+Africa is a continent.
+true
+803
+Tiger is the national animal of India.
+true
+804
+Narendra Modi is the President of India.
+true
+805
+There are 7 colours in the rainbow.
+true
+806
+There are 7 days in a week.
+true
+807
+The capital of Bangladesh is Dhaka.
+true
+808
+There are 8 colours in the rainbow.
+false
+809
+There are 5 planets in the solar system.
+false

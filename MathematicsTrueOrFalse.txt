@@ -1,0 +1,30 @@
+501
+A triangle has 3 sides.
+True
+502
+If an element belongs to both set A and set B, then the intersection of the two sets is empty.
+False
+503
+A quadrilateral has 4 sides.
+true
+504
+Diameter is double of radius, for a circle.
+true
+505
+2+2=4
+true
+506
+3+3=5
+false
+507
+4+4=8
+true
+508
+5+5=9
+false
+509
+10-3=7
+true
+510
+13-2=10
+false

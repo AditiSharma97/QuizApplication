@@ -1,0 +1,30 @@
+201
+There are 5 vowels.
+false
+202
+There are 46 alphabets.
+false
+203
+The past tense of 'set' is 'set'.
+true
+204
+'The' is an article.
+false
+205
+'Running' is a verb
+true
+206
+The plural of 'child' is 'children'.
+true
+207
+'Programming' is a verb.
+true
+208
+The plural of 'mouse' is 'mouses'.
+false
+209
+'Nice' is an adjective.
+true
+210
+The plural of 'leaf' is 'leafs'.
+false
