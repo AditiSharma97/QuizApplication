@@ -5,6 +5,7 @@ In properties.txt, set pathForFiles as the location of your application folder o
 Username and password are contained in the properties.txt file.
 Use command:
 > javac UserInterface.java
+
 > java UserInterface
 
 The questions are stored in the text files as follows:
